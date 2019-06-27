@@ -166,8 +166,8 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {157059515},
-    admins = {},
+    sudo_users = {732020140},
+    admins = {732020140},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Beyond Self Bot NEW Branch
